@@ -11,3 +11,5 @@ Clinton Eastwood Jr. (born May 31, 1930) is an American actor, film director, pr
 ## Featured quote
 > Sometimes if you want to see a change for the better, you have to take things into your own hands. success in the Western TV series Rawhide, he rose to international fame with his role as antihero cop Harry Callahan in the five Dirty Harry films throughout the 1970s and 1980s.
 
+## Image
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Clint_Eastwood_J._Edgar_Premier%2C_November_2011_%28cropped%29.jpg/434px-Clint_Eastwood_J._Edgar_Premier%2C_November_2011_%28cropped%29.jpg"/>
